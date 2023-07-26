@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-c#e5j=b5e((=uro3!!se_u(vs5%cn&(9lp4^@pla2es%nm*#6@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['vila-cantina-app.onrender.com']
 
 
 # Application definition
